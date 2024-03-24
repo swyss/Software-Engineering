@@ -5,15 +5,22 @@
 
 ### Domains
 - General
-    - ![Static Badge](https://img.shields.io/badge/GENERAL%20-%20domain?label=domain&color=red)
+    - ![Static Badge](https://img.shields.io/badge/GENERAL%20-%20domain?label=domain&color=red&style=for-the-badge)
 - HomeSphere
-    - ![Static Badge](https://img.shields.io/badge/HomeSphere%20-%20domain?label=domain&color=darkgreen)
+    - ![Static Badge](https://img.shields.io/badge/HomeSphere%20-%20domain?label=domain&color=darkgreen&style=for-the-badge)
 - HAS
-    - ![Static Badge](https://img.shields.io/badge/HAS%20-%20domain?label=domain&color=darkblue)
+    - ![Static Badge](https://img.shields.io/badge/HAS%20-%20domain?label=domain&color=darkblue&style=for-the-badge)
 - ShowCases
-    - ![Static Badge](https://img.shields.io/badge/SHOW%20-%20domain?label=domain&color=yellow)
+    - ![Static Badge](https://img.shields.io/badge/SHOW%20-%20domain?label=domain&color=yellow&style=for-the-badge)
 
 ### TechStack
+
+#### Frontend
+
+
+#### Backend
+
+#### DB
 
 ### Tools
 
