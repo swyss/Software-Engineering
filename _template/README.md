@@ -29,7 +29,7 @@ One or two sentences summarizing the project and its purpose.
 
 ### Project-Management
 #### Prio
-![Static Badge](https://img.shields.io/badge/★★★%20%20(6/10)-%prio?label=prio&color=purple&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/prio%20-%20%E2%98%85%E2%98%85%E2%98%85%20(6%2F10)%20-%20?style=for-the-badge&color=purple)
 #### Progress
 
 #### Software-Engineering
@@ -38,21 +38,22 @@ One or two sentences summarizing the project and its purpose.
 ## TechStack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=vue,html,css,)](https://skillicons.dev)
+
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ### Backend
-[![backend_tech](https://skillicons.dev/icons?i=java,cs,python,nodejs,npm,yarn,fastapi,django,dotnet,spring)](https://skillicons.dev)
+
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ### DB
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 
 ## Tools
-### IDE
-[![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,rider,webstorm,vscode)](https://skillicons.dev)
 
 ## Enviroment
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ## CD/CI

@@ -17,12 +17,33 @@
 
 #### Frontend
 
+##### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,yarn)](https://skillicons.dev)
+
+##### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
 #### Backend
+
+##### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
+
+##### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=spring,net,fastapi,django)](https://skillicons.dev)
 
 #### DB
 
 ### Tools
+
+### IDE
+
+[![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,rider,webstorm,vscode)](https://skillicons.dev)
 
 ### Enviroment
 
@@ -35,4 +56,5 @@
 ### public
 
 ## Template
+
 > [Project Template](../_template/README.md)
