@@ -1,6 +1,10 @@
 # Projects - Software-Engineering
 > [go to HOME](../README.md)
-
+<p>
+  <a href="https://github.com/swyss">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 ## Introduction
 
 ### Domains
