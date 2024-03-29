@@ -77,5 +77,3 @@ Integrate external CI/CD tools if necessary.
 #### Best Practices
 ##### Documentation
 - Keep your README files, wikis, and code comments up-to-date to make it easier for other developers to work on your project.
-##### Community Engagement
-- Be open to contributions from the community and foster a positive environment through clear contribution guidelines.
