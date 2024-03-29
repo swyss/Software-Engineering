@@ -61,4 +61,4 @@
 
 ## Template
 
-> [Project Template](../_template/README.md)
+> [Project Template](./_template/README.md)
