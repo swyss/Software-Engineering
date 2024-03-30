@@ -41,21 +41,6 @@
 ##### Issues and Project Management
 - Create issues to track new ideas, tasks, or bugs.
 - Use labels and milestones to categorize and prioritize issues.
-  - labels:
-    - > bug 
-    - > feature 
-    - > enhancement 
-    - > documentation
-    - > help!! 
-    - > good_first_issue 
-    - > wontfix 
-    - > duplicate
-  - milestones
-    - > setup_project 
-    - > ver_0 
-    - > ver_0.1
-    - > ver_0.2
-    - > beta 
 - Employ project boards to visually manage progress.
 ##### Pull Requests and Code Review
 - Encourage pull requests as the standard method for code contributions.
